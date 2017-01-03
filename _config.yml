@@ -1,0 +1,8 @@
+title: Dip
+description: ترجمه ی کتاب شیب ست گادین
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
