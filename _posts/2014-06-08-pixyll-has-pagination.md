@@ -6,4 +6,4 @@ summary:    This is an empty post to illustrate the pagination component with Pi
 categories: jekyll pixyll
 ---
 
-This is an empty post to illustrate the pagination component with Pixyll.
+این یه پست خالیه که فقط برای صفحه ها استفاده می‌شه.
