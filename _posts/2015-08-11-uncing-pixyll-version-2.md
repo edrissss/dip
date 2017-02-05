@@ -4,6 +4,8 @@ title:      اولین پستم
 date:       2015-08-11
 summary:    سلام پسر
 categories:  
+permalink: /avalin/
+
 ---
 
 سلام.
