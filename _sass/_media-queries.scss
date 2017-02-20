@@ -9,7 +9,7 @@
   }
 
   .site-header {
-    text-align: left;
+    text-align: right;
   }
 
   .site-nav {
@@ -22,11 +22,11 @@
 
   .site-header .site-title {
     font-size: $h3;
-    float: left;
+    float: right;
   }
 
   .site-header .site-nav {
-    float: right;
+    float: left;
     margin-top: .25rem;
   }
 
